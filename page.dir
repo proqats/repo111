@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8655-1057
+
+ Directory of C:\Users\DELL\Desktop\EPICGAME
+
+05/06/2024  11:03 PM    <DIR>          .
+05/06/2024  10:53 PM    <DIR>          ..
+05/06/2024  06:34 PM    <DIR>          cypress
+05/06/2024  06:33 PM               175 cypress.config.ts
+05/06/2024  06:21 PM    <DIR>          node_modules
+05/06/2024  06:21 PM            67,976 package-lock.json
+05/06/2024  06:21 PM               327 package.json
+05/06/2024  11:03 PM                 0 page.dir
+               4 File(s)         68,478 bytes
+               4 Dir(s)  460,713,570,304 bytes free
